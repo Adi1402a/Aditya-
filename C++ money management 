@@ -102,4 +102,4 @@ int main() {
     manager.printSummary();
 
     return 0;
-}
+} // There is the presenting thing are not replicate the processing 
